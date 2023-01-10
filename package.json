@@ -1,12 +1,10 @@
 {
-  "homepage": "https://github.com/tatacastro12/portafolio",
+  
   "name": "portafolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pagues -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
