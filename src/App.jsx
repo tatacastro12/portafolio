@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
 import About from "./components/About";
 import Footer from "./components/Footer";
+import Form from "./components/form";
 import HeroSection from "./components/HeroSection";
 import Services from "./components/Services";
 import Works from "./components/Works";
-import Form from  "./components/Form"
+
 
 function App() {
   const [theme, setTheme] = useState(null);
@@ -45,7 +46,7 @@ function App() {
           <Services></Services>
           <Works></Works>
           <About></About>
-          <Form></Form>
+        <Form></Form>
           <Footer></Footer>
           
 
