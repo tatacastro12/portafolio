@@ -4,7 +4,7 @@ import React , {useRef} from "react";
 
 
 
-function Form() {
+function Formt() {
     const form = useRef();
 
   const sendEmail = (e) => {
@@ -15,7 +15,7 @@ function Form() {
     
   return (
     
-<Form>
+<form>
   <div>
         
   <div className="flex flex-col items-center justify-center  mx-auto md:h-screen lg:py-0">
@@ -48,8 +48,8 @@ function Form() {
   </div>
 
     </div>
-</Form>
+</form>
   );
 }
 
-export default Form;
+export default Formt;
