@@ -4,7 +4,7 @@ import React , {useRef} from "react";
 
 
 
-function ContaForm() {
+function Contac() {
     const form = useRef();
 
   const sendEmail = (e) => {
@@ -52,4 +52,4 @@ function ContaForm() {
   );
 }
 
-export default ContaForm;
+export default Contac;

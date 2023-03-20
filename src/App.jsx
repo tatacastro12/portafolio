@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import About from "./components/About";
 import Footer from "./components/Footer";
-import ContaForm from "./components/ContaForm";
+import Contac from "./components/Contac";
 import HeroSection from "./components/HeroSection";
 import Services from "./components/Services";
 import Works from "./components/Works";
@@ -46,7 +46,7 @@ function App() {
           <Services/>
           <Works/>
           <About/>
-          <ContaForm/>
+          <Contac/>
           <Footer/>
           
 
