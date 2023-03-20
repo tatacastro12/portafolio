@@ -5,7 +5,7 @@ function HeroSection() {
     <div id="hero" className="flex items-center justify-center flex-col py-20">
       <div className="text-center">
         <h1 className="text-2xl md: text-4xl mb-1 md: mb-3 text-indigo-600 font-semibold dark:text-indigo-500">
-          Hi; i am Tatiana
+          Hola; i am Tatiana
         </h1>
         <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
         Full stack Developer | Backend Developer | Directora en direccion de ventas | Python |NodeJs | React | Web Developer | Html | Css | Figma | UI/UX
