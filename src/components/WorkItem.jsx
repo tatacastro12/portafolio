@@ -1,5 +1,5 @@
 import React from 'react'
-import { MdTableChart } from 'react-icons/md'
+
 
 function WorkItem({ imgUrl, title, tech, workUrl }) {
   return (
