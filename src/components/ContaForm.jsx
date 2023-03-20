@@ -4,7 +4,7 @@ import React , {useRef} from "react";
 
 
 
-function Formt() {
+function ContaForm() {
     const form = useRef();
 
   const sendEmail = (e) => {
@@ -15,7 +15,7 @@ function Formt() {
     
   return (
     
-<form>
+
   <div>
         
   <div className="flex flex-col items-center justify-center  mx-auto md:h-screen lg:py-0">
@@ -48,8 +48,8 @@ function Formt() {
   </div>
 
     </div>
-</form>
+
   );
 }
 
-export default Formt;
+export default ContaForm;
