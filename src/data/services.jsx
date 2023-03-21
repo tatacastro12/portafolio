@@ -1,5 +1,5 @@
 import { MdWeb } from "react-icons/md";
-import { FaHandHoldingHeart } from "React-icons/fa";
+import { FaHandHoldingHeart } from "react-icons/fa";
 import { VscCode } from "react-icons/vsc";
 
 export default [
