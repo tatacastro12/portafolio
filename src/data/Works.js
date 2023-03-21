@@ -1,5 +1,5 @@
 
-export default [
+export const works = [
   {
     title: "Calculadora",
     imgUrl: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDtU_6Nou2ID4h-BPQZ1kHbgR5U7SEdA6l3J-LYt9BHHQkf-qUM5mgZ2TTJqBEOEIlcjWbg3EKQT3wjtgWZYrK0D1Kz0EYqh2OO7IYTLiZn9pjcmh8__NRbSlVHEQLAkC1KVc3tTDYX7ArTSM8FirhrGeyVCWw_VWWYy2_GYhRIl4nzIbHA3-CetTm4g/w945-h600-p-k-no-nu/media.io_xTl0yTBp.gif",
