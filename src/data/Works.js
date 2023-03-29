@@ -11,7 +11,7 @@ export const works = [
     title: "Web Tributo",
     imgUrl: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQhLMcz91jOB_GjwOvwPZF_lc5HSbbGZsN6ac4VQYMkt2aSKt6BfLbE5mMvL21U9EJAQE66ETB6i2EwZZiQg8pzW87CpdTNX1_p3Pv2dxIAkRwl5l5LV2ULLyITIOgBaUaR3bK2rjVGSah2uML5D3G4_r8vrZgpUdG2K8DveBHTHYehc8wGlGaLBtL6Q/s483/frida.png",
     tech: ['CSS', 'HTML','GIT','FIGMA'],
-    workUrl: "https://tributo-qpxjl5jjg-tatacastro12.vercel.app/"
+    workUrl: "https://tributo-master.vercel.app/from.html"
   },
   {
     title: "api-rick-and-morty",
